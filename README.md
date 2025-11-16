@@ -1,4 +1,4 @@
-# Demo
+# AtCoderBeginnersSelection
 
 VOICEROID2 を HTTP API で操作して読み上げさせるコンソールアプリケーションです。(要管理者権限)
 
